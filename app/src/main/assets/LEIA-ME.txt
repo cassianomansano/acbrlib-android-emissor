@@ -1,0 +1,3 @@
+Copie para esta pasta os schemas da NF-e do ACBr:
+  app/src/main/assets/Schemas/NFe/*.xsd
+A pasta Schemas/ nao e versionada.

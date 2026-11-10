@@ -1,0 +1,22 @@
+# build
+.gradle/
+build/
+app/build/
+local.properties
+*.apk
+*.aab
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+# segredos (nunca versionar)
+*.pfx
+*.p12
+*.jks
+*.keystore
+keystore.properties
+# bibliotecas e schemas de terceiros (cada um copia os seus)
+app/libs/*.aar
+app/libs/*.so
+app/src/main/assets/Schemas/
